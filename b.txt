@@ -1,1 +1,3 @@
 this is b text
+Added c text
+Added d text
